@@ -1,7 +1,7 @@
 # Olá,Mundo ! 🤖
  Primeiro Repositório do Curso de Git e GitHub.
 
- Repositorio criado com Gustavo Guanabara no curso.
+ Repositório criado com Gustavo Guanabara no curso de Git e GitHub do [Curso em Vídeo](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA).
  Essa linha eu adicionei diretamente no site!
 
  **Aprendendo** *Markdown* 
